@@ -1,5 +1,3 @@
-use std::os::unix::net::SocketAddr;
-
 use axum::{routing::get, Router};
 
 #[tokio::main]
